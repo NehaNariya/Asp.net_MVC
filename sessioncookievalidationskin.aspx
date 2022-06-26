@@ -825,5 +825,7 @@ theme - > right click -> new folder -> skin file
 
 
 
-
+project upar right click kari ne - asp.net folder upar click karva nu - pa6i folder upar right click kari  ne css vadu add karvanu -  e kari atle direct e j file khulse-
+aema css add kari deva ni -font colour e badhu-pa6i master page ma jay ne - peli liti ma theme add kari devani-pa6i equal karvanu atle suggestion aapse aema theme vadu aave e 
+lay levanu..
 
